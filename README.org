@@ -1,0 +1,6 @@
+
+* Install
+
+#+BEGIN_SRC sh
+pip install libtmux
+#+END_SRC
