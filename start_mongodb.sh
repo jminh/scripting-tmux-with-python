@@ -53,3 +53,10 @@ tmux send-keys "cd /home" C-m
 ###########################
 
 tmux select-window -t $SESSION:0
+
+# More info
+#
+# Run or send a command to a tmux pane in a running tmux session
+# http://superuser.com/questions/492266/run-or-send-a-command-to-a-tmux-pane-in-a-running-tmux-session
+#
+# http://blog.htbaa.com/news/tmux-scripting
